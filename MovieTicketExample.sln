@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieTicketExample", "MovieTicketExample\MovieTicketExample.csproj", "{D1D21F2D-417C-465E-BD14-26C264344B83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MovieFunctionExample", "MovieFunctionExample\MovieFunctionExample.csproj", "{DAF665A7-12A9-419C-AEE9-383543B8ECAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1D21F2D-417C-465E-BD14-26C264344B83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D21F2D-417C-465E-BD14-26C264344B83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D21F2D-417C-465E-BD14-26C264344B83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D21F2D-417C-465E-BD14-26C264344B83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAF665A7-12A9-419C-AEE9-383543B8ECAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAF665A7-12A9-419C-AEE9-383543B8ECAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAF665A7-12A9-419C-AEE9-383543B8ECAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAF665A7-12A9-419C-AEE9-383543B8ECAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA6C6B71-85DA-4C61-81AB-CF0BEC7C0941}
+	EndGlobalSection
+EndGlobal
