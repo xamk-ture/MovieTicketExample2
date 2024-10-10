@@ -35,7 +35,7 @@ namespace MovieFunctionExample
         /// <returns>Returns user name</returns>
         static string AskName()
         {
-            Console.WriteLine("Enter your name:");
+            Console.WriteLine("Enter your name please:");
             string name = Console.ReadLine();
 
             return name;
